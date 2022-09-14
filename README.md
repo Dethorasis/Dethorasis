@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dethorasis
 - 🌱 I’m currently learning Javascript and plan to use GitHub as a space to put all of my learnings and place to build projects.
-- 🌱 So far I only have very minor basic exercises and concepts to put on here :)
+- 🌱 So far I only have very minor basic exercises and concepts to put on here and much of the exercises come from Jonas Schemedtmans course on JS.
 
 <!---
 Dethorasis/Dethorasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
