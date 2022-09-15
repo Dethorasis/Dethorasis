@@ -1,3 +1,4 @@
+//----------------------Exercise #1----------------------------
 function classRoomPopulation (students) {
     return students / 30; //Very basic function to return a number of students divided by 30
 }
@@ -5,7 +6,7 @@ function classRoomPopulation (students) {
 console.log(`If you have 12 students out of a classroom size of
 30 students, the total percentage of students attending is ${classRoomPopulation((12) * 100).toFixed(2)} percent!`); //Use of toFixed to ensure I don't get messy numbers
 
-//---------------------------------------------
+//-------------------------- Exercise #2---------------------------
 function calcScore (score1, score2, score3) { //Function calculates the average of three inputs, function to be called later
     return (score1 + score2 + score3) / 3;
 }
