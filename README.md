@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dethorasis (Cade)
-- 🌱 Currently attending Dev Academy Aotearoa to become a fullstack web developer
+- 🌱 Recent Dev Academy Aotearoa graduate
 
 <!---
 Dethorasis/Dethorasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
